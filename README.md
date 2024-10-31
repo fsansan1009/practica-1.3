@@ -147,4 +147,4 @@ mysql -u root < /tmp/iaw-practica-lamp/db/database.sql
 
 ## Comprobación de que funciona:
 
-![alt text](image.png)
+![alt text](image-1.png)
